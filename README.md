@@ -1,8 +1,7 @@
 # Projek Computer Vision
 
-## Judul
-**Pendekteksi Penyakit Tanaman Daun Jagung**  
-*Hanif Aydin Rizky - 2155301055*
+**Judul: Pendekteksi Penyakit Tanaman Daun Jagung**  
+*Hanif Aydin Rizky - 2155301055
 
 ## Latar Belakang
 Ketahanan pangan adalah prioritas nasional, tetapi sektor pertanian Indonesia menghadapi tantangan besar dari serangan penyakit tanaman yang mengurangi produksi hingga 40%. Sistem pengendalian manual tidak efektif karena keterbatasan tenaga ahli dan luasnya area pertanian. Kemajuan teknologi digital, dengan penggunaan teknologi, membuka peluang penggunaan artificial intelligence dan computer vision. Penggunaan teknologi ini dapat meningkatkan akurasi deteksi penyakit pada tanaman hingga 85% dan mempercepat proses penanganan hingga 75% dan dapat mendukung ketahanan pangan di tengah tantangan perubahan iklim.
