@@ -22,6 +22,3 @@ Food security is a national priority, but Indonesia's agricultural sector faces 
 
 ## Closing
 **Thank You!
-
-
-Translated with DeepL.com (free version)
