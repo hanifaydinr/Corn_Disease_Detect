@@ -1,24 +1,27 @@
-# Projek Computer Vision
+# Computer Vision Project
 
-**Judul: Pendekteksi Penyakit Tanaman Daun Jagung**  
+**Title: Corn Leaf Disease Detection**  
 **Hanif Aydin Rizky - 2155301055**
 
-## Latar Belakang
-Ketahanan pangan adalah prioritas nasional, tetapi sektor pertanian Indonesia menghadapi tantangan besar dari serangan penyakit tanaman yang mengurangi produksi hingga 40%. Sistem pengendalian manual tidak efektif karena keterbatasan tenaga ahli dan luasnya area pertanian. Kemajuan teknologi digital, dengan penggunaan teknologi, membuka peluang penggunaan artificial intelligence dan computer vision. Penggunaan teknologi ini dapat meningkatkan akurasi deteksi penyakit pada tanaman hingga 85% dan mempercepat proses penanganan hingga 75% dan dapat mendukung ketahanan pangan di tengah tantangan perubahan iklim.
+## Background
+Food security is a national priority, but Indonesia's agricultural sector faces major challenges from plant disease attacks that reduce production by up to 40%. Manual control systems are ineffective due to limited experts and large agricultural areas. The advancement of digital technology, with the use of technology, opens up opportunities for the use of artificial intelligence and computer vision. The use of this technology can increase the accuracy of disease detection in plants by up to 85% and accelerate the treatment process by up to 75% and can support food security amid the challenges of climate change.
 
-## Tujuan
-- Membantu mengatasi penyakit pada tanaman jagung dengan cara yang lebih baik.
-- Mengembangkan sistem deteksi berbasis citra daun.
-- Mempermudah dan mempercepat proses mengenali penyakit pada tanaman jagung.
+## Objective
+- Help to overcome diseases in corn plants in a better way.
+- Develop a leaf image-based detection system.
+- Simplify and speed up the process of recognizing diseases in corn plants.
 
-## Dataset yang Digunakan
-- Dataset: “New Plant Diseases Dataset” oleh SAMIR BHATTARA (dari Kaggle).
-- Fokus: dataset untuk daun jagung.
+## Dataset Used
+- Dataset: “New Plant Diseases Dataset” by SAMIR BHATTARA (from Kaggle).
+- Focus: dataset for corn leaves.
 
-## Proses Implementasi
-1. Ambil gambar daun jagung.
-2. Gambar diproses oleh model.
-3. Hasil deteksi ditampilkan, disertai penjelasan jenis penyakit dan saran penanganan.
+## Implementation Process
+1. Take an image of a corn leaf.
+2. The image is processed by the model.
+3. Detection results are displayed, along with disease type explanation and treatment suggestions.
 
-## Penutup
-**Thank You!**
+## Closing
+**Thank You!
+
+
+Translated with DeepL.com (free version)
