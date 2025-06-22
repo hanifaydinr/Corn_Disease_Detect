@@ -20,5 +20,8 @@ Food security is a national priority, but Indonesia's agricultural sector faces 
 2. The image is processed by the model.
 3. Detection results are displayed, along with disease type explanation and treatment suggestions.
 
+Output: ![image](https://github.com/user-attachments/assets/0ae16e76-b4a1-47ba-a8da-c416a37e4d76)
+
+
 ## Closing
 **Thank You!
