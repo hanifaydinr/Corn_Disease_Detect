@@ -25,13 +25,13 @@ Dataset:
 https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/code
 
 
-Hasil Grafik dan Akurasi:
+Using H5 model Graphical Results and Accuracy:
 ![image](https://github.com/user-attachments/assets/318b3f59-a829-4f1d-bab6-9ce346e04816)
 ![image](https://github.com/user-attachments/assets/4d417107-a3d1-4569-9436-b3fafab90b2f)
 
 
 Project:
-https://drive.google.com/file/d/18Q7l9_gCfrWdCVFr648u-kA5EmiWYKEG/view?usp=sharing
+https://drive.google.com/file/d/18Q7l9_gCfrWdCVFr648u-kA5EmiWYKEG/view?usp=drive_link
 
 
 Sistem:
