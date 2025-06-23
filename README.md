@@ -20,6 +20,11 @@ Food security is a national priority, but Indonesia's agricultural sector faces 
 2. The image is processed by the model.
 3. Detection results are displayed, along with disease type explanation and treatment suggestions.
 
+
+Dataset:
+https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/code
+
+
 Hasil Grafik dan Akurasi:
 ![image](https://github.com/user-attachments/assets/318b3f59-a829-4f1d-bab6-9ce346e04816)
 ![image](https://github.com/user-attachments/assets/4d417107-a3d1-4569-9436-b3fafab90b2f)
@@ -28,8 +33,6 @@ Hasil Grafik dan Akurasi:
 Project:
 https://drive.google.com/file/d/18Q7l9_gCfrWdCVFr648u-kA5EmiWYKEG/view?usp=sharing
 
-Output:
-![image](https://github.com/user-attachments/assets/0ae16e76-b4a1-47ba-a8da-c416a37e4d76)
 
 Sistem:
 ![image](https://github.com/user-attachments/assets/460c0f55-4866-455f-8b5c-d311711a93c5)
