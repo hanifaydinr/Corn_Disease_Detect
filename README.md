@@ -36,7 +36,8 @@ https://drive.google.com/file/d/18Q7l9_gCfrWdCVFr648u-kA5EmiWYKEG/view?usp=drive
 
 Sistem:
 ![image](https://github.com/user-attachments/assets/460c0f55-4866-455f-8b5c-d311711a93c5)
-![image](https://github.com/user-attachments/assets/8de0cffa-63aa-4913-9959-7eed26d5a842)
+![image](https://github.com/user-attachments/assets/c7232b6d-1632-4f12-b9b8-0e25b3c86b1d)
+
 
 ## Closing
 **Thank You!
